@@ -1,5 +1,5 @@
 {
-    "name": "mw/phpword",
+    "name": "mentalworks/phpword",
     "description": "This is a Fork from PHPOffice/PHPWord modified to satisfy our needs.",
     "keywords": [
         "PHP", "PHPOffice", "office", "PHPWord", "word", "template", "template processor", "reader", "writer",
