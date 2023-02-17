@@ -10,6 +10,8 @@
 
 PHPWord is a library written in pure PHP that provides a set of classes to write to and read from different document file formats. The current version of PHPWord supports Microsoft [Office Open XML](http://en.wikipedia.org/wiki/Office_Open_XML) (OOXML or OpenXML), OASIS [Open Document Format for Office Applications](http://en.wikipedia.org/wiki/OpenDocument) (OpenDocument or ODF), [Rich Text Format](http://en.wikipedia.org/wiki/Rich_Text_Format) (RTF), HTML, and PDF.
 
+# :warning: This repository is based on the original https://github.com/PHPOffice/PHPWord. It aims to add some features, specific to Mentalworks. Please use the official repository if you do not need these features. 
+
 PHPWord is an open source project licensed under the terms of [LGPL version 3](COPYING.LESSER). PHPWord is aimed to be a high quality software product by incorporating [continuous integration](https://github.com/PHPOffice/PHPWord/actions) and unit testing. You can learn more about PHPWord by reading the [Developers' Documentation](http://phpword.readthedocs.org/).
 
 If you have any questions, please ask on [StackOverFlow](https://stackoverflow.com/questions/tagged/phpword)
